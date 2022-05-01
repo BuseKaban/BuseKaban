@@ -1,5 +1,5 @@
 🎓 I'm a Management Information Systems student at Dokuz Eylul University.\
-👀 I’m interested in data science, machine learning,\
+👀 I’m interested in data science, machine learning, cyber security\
 🌱 I’m currently learning PHP, MYSQL, PYTHON, JS\
 📫 How to reach me busekaban@protonmail.com
 
