@@ -1,4 +1,5 @@
-🎓 I'm a Management Information Systems student at Dokuz Eylul University.\
+🎓 I graduated from Dokuz Eylül University MIS.\
+💻 I'm currently working as a software developer at Koçdigital.\
 👀 I’m interested in data science, machine learning, cyber security\
 🌱 I’m currently learning ReactJS, JS, Ionic, PHP, MYSQL, PYTHON, Angular ,C#, Java,\
 📫 How to reach me busekaban@protonmail.com
